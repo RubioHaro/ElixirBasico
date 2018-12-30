@@ -1,4 +1,4 @@
 # Recommended
-IO.puts "Hello word"
+IO.puts "Hello world"
 # Tradicional
-IO.puts("Hello word"); 
+IO.puts("Hello world"); 
